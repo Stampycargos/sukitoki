@@ -7,25 +7,31 @@
           "name": "Edamame",
           "description": "Steamed green soybeans lightly salted.",
           "price": 5.00,
-          "image": "edamame.jpg"
+          "image": "Edamame.webp"
         },
         {
           "name": "Gyoza (Pork or Vegetable)",
           "description": "Pan-fried dumplings served with a savory dipping sauce.",
           "price": 7.50,
-          "image": "gyoza.jpg"
+          "image": "Gyoza.webp"
         },
         {
           "name": "Shrimp Tempura",
           "description": "Crispy fried shrimp and seasonal vegetables with tempura sauce.",
           "price": 11.00,
-          "image": "shrimp-tempura.jpg"
+          "image": "ShrimpTempura.webp"
         },
         {
           "name": "Agedashi Tofu",
           "description": "Lightly fried tofu in a dashi-based sauce, garnished with scallions and grated daikon.",
           "price": 8.00,
-          "image": "agedashi-tofu.jpg"
+          "image": "AgedashiTofu.webp"
+        },
+        {
+          "name": "Natto",
+          "description": "Fermented soybeans with a distinct sticky texture and pungent flavor, often served with rice.",
+          "price": 6.00,
+          "image": "Natto.webp"
         }
       ]
     },
@@ -36,31 +42,31 @@
           "name": "Assorted Nigiri (6 pcs)",
           "description": "Chef's selection of fresh fish over seasoned sushi rice.",
           "price": 22.00,
-          "image": "nigiri.jpg"
+          "image": "AssortedNigiri.webp"
         },
         {
           "name": "Sashimi Platter (9 pcs)",
           "description": "Finest cuts of raw fish, no rice.",
           "price": 28.00,
-          "image": "sashimi.jpg"
+          "image": "SashimiPlatter.webp"
         },
         {
           "name": "Spicy Tuna Roll",
           "description": "Tuna mixed with spicy sauce, cucumber, and avocado.",
           "price": 12.50,
-          "image": "spicy-tuna-roll.jpg"
+          "image": "SpicyTunaRoll.webp"
         },
         {
           "name": "Dragon Roll",
           "description": "Eel and cucumber inside, topped with avocado and eel sauce.",
           "price": 16.00,
-          "image": "dragon-roll.jpg"
+          "image": "DragonRoll.webp"
         },
         {
           "name": "Vegetable Roll",
           "description": "Avocado, cucumber, carrot, and asparagus.",
           "price": 9.00,
-          "image": "vegetable-roll.jpg"
+          "image": "VegetableRoll.webp"
         }
       ]
     },
@@ -71,25 +77,31 @@
           "name": "Tonkotsu Ramen",
           "description": "Rich pork broth ramen with chashu, soft-boiled egg, scallions, and nori.",
           "price": 17.00,
-          "image": "tonkotsu-ramen.jpg"
+          "image": "TonkotsuRamen.webp"
+        },
+        {
+          "name": "Japanese Chicken Curry",
+          "description": "Comforting Japanese curry with tender chicken and vegetables, served over steamed rice.",
+          "price": 18.50,
+          "image": "ChickenCurry.webp"
         },
         {
           "name": "Chicken Teriyaki",
           "description": "Grilled chicken breast with house-made teriyaki sauce, served with rice and vegetables.",
           "price": 19.50,
-          "image": "chicken-teriyaki.jpg"
+          "image": "ChickenTeriyaki.webp"
         },
         {
           "name": "Beef Yakiniku",
           "description": "Slices of tender beef marinated and grilled, served with rice.",
           "price": 23.00,
-          "image": "beef-yakiniku.jpg"
+          "image": "BeefYakiniku.webp"
         },
         {
           "name": "Vegetable Yakisoba",
           "description": "Stir-fried Japanese noodles with mixed vegetables and savory sauce.",
           "price": 15.00,
-          "image": "yakisoba.jpg"
+          "image": "VegetableYakisoba.webp"
         }
       ]
     },
@@ -100,25 +112,25 @@
           "name": "Mochi Ice Cream",
           "description": "Assorted mochi filled with ice cream (green tea, red bean, vanilla).",
           "price": 6.50,
-          "image": "mochi.jpg"
+          "image": "MochiIceCream.webp"
         },
         {
           "name": "Green Tea Cheesecake",
           "description": "Creamy cheesecake infused with Japanese matcha.",
           "price": 8.00,
-          "image": "green-tea-cheesecake.jpg"
+          "image": "GreenTeaCheesecake.webp"
         },
         {
           "name": "Sake (Hot or Cold)",
           "description": "Traditional Japanese rice wine.",
           "price": 9.00,
-          "image": "sake.jpg"
+          "image": "Sake.webp"
         },
         {
           "name": "Ramune (Japanese Soda)",
           "description": "Popular Japanese carbonated soft drink with a marble seal.",
           "price": 4.00,
-          "image": "ramune.jpg"
+          "image": "Ramune.webp"
         }
       ]
     }
