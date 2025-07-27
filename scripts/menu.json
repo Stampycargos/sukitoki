@@ -1,0 +1,126 @@
+{
+  "menu": [
+    {
+      "categoryName": "Appetizers & Small Plates",
+      "items": [
+        {
+          "name": "Edamame",
+          "description": "Steamed green soybeans lightly salted.",
+          "price": 5.00,
+          "image": "edamame.jpg"
+        },
+        {
+          "name": "Gyoza (Pork or Vegetable)",
+          "description": "Pan-fried dumplings served with a savory dipping sauce.",
+          "price": 7.50,
+          "image": "gyoza.jpg"
+        },
+        {
+          "name": "Shrimp Tempura",
+          "description": "Crispy fried shrimp and seasonal vegetables with tempura sauce.",
+          "price": 11.00,
+          "image": "shrimp-tempura.jpg"
+        },
+        {
+          "name": "Agedashi Tofu",
+          "description": "Lightly fried tofu in a dashi-based sauce, garnished with scallions and grated daikon.",
+          "price": 8.00,
+          "image": "agedashi-tofu.jpg"
+        }
+      ]
+    },
+    {
+      "categoryName": "Sushi & Sashimi",
+      "items": [
+        {
+          "name": "Assorted Nigiri (6 pcs)",
+          "description": "Chef's selection of fresh fish over seasoned sushi rice.",
+          "price": 22.00,
+          "image": "nigiri.jpg"
+        },
+        {
+          "name": "Sashimi Platter (9 pcs)",
+          "description": "Finest cuts of raw fish, no rice.",
+          "price": 28.00,
+          "image": "sashimi.jpg"
+        },
+        {
+          "name": "Spicy Tuna Roll",
+          "description": "Tuna mixed with spicy sauce, cucumber, and avocado.",
+          "price": 12.50,
+          "image": "spicy-tuna-roll.jpg"
+        },
+        {
+          "name": "Dragon Roll",
+          "description": "Eel and cucumber inside, topped with avocado and eel sauce.",
+          "price": 16.00,
+          "image": "dragon-roll.jpg"
+        },
+        {
+          "name": "Vegetable Roll",
+          "description": "Avocado, cucumber, carrot, and asparagus.",
+          "price": 9.00,
+          "image": "vegetable-roll.jpg"
+        }
+      ]
+    },
+    {
+      "categoryName": "Main Courses & Ramen",
+      "items": [
+        {
+          "name": "Tonkotsu Ramen",
+          "description": "Rich pork broth ramen with chashu, soft-boiled egg, scallions, and nori.",
+          "price": 17.00,
+          "image": "tonkotsu-ramen.jpg"
+        },
+        {
+          "name": "Chicken Teriyaki",
+          "description": "Grilled chicken breast with house-made teriyaki sauce, served with rice and vegetables.",
+          "price": 19.50,
+          "image": "chicken-teriyaki.jpg"
+        },
+        {
+          "name": "Beef Yakiniku",
+          "description": "Slices of tender beef marinated and grilled, served with rice.",
+          "price": 23.00,
+          "image": "beef-yakiniku.jpg"
+        },
+        {
+          "name": "Vegetable Yakisoba",
+          "description": "Stir-fried Japanese noodles with mixed vegetables and savory sauce.",
+          "price": 15.00,
+          "image": "yakisoba.jpg"
+        }
+      ]
+    },
+    {
+      "categoryName": "Desserts & Drinks",
+      "items": [
+        {
+          "name": "Mochi Ice Cream",
+          "description": "Assorted mochi filled with ice cream (green tea, red bean, vanilla).",
+          "price": 6.50,
+          "image": "mochi.jpg"
+        },
+        {
+          "name": "Green Tea Cheesecake",
+          "description": "Creamy cheesecake infused with Japanese matcha.",
+          "price": 8.00,
+          "image": "green-tea-cheesecake.jpg"
+        },
+        {
+          "name": "Sake (Hot or Cold)",
+          "description": "Traditional Japanese rice wine.",
+          "price": 9.00,
+          "image": "sake.jpg"
+        },
+        {
+          "name": "Ramune (Japanese Soda)",
+          "description": "Popular Japanese carbonated soft drink with a marble seal.",
+          "price": 4.00,
+          "image": "ramune.jpg"
+        }
+      ]
+    }
+  ]
+}
